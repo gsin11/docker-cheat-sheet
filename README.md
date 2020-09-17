@@ -106,4 +106,4 @@ Create new docker machine
   $ docker-machine create --driver virtualbox docker-app-machine-name  // list of available drivers: https://docs.docker.com/machine/drivers/
 ```
 
-#### Feel free to Glow
+#### Feel free to Grow
